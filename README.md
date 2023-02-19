@@ -7,8 +7,9 @@ Online Compiler IDE is a web-based tool designed by using
 programming languages in frontend viz. HTML,CSS and JavaScript and for backend
 manipulation PHP and JavaScript for dynamic manipulation of web with the help of
 ace editor.
-
-
+<br/><br/>
+<span><img src="https://ace.c9.io/doc/site/images/textimage.png" alt="ace" width="500" height="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://github.blog/wp-content/uploads/2011/08/7626a65c-b173-11e4-9523-ff7cb4df851d.png?resize=238%2C155" width="250" height="100"/>
 - Build, run and test the program
 - User friendly
 
@@ -18,7 +19,13 @@ ace editor.
 - Using this tool from local and continue to build using this IDE for now.
 - Save the output in the current workspace.
 - Save the code run to get the output as a file format in the current workspace.
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="55" height="60"/>
+<br/>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="55" height="60"/>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<br/>
 Compiling source code and get the desired result of 5 different programming
 languages i.e., C, C++, Python, PHP and Node Js.
 
