@@ -18,11 +18,9 @@ ace editor.
 - Using this tool from local and continue to build using this IDE for now.
 - Save the output in the current workspace.
 - Save the code run to get the output as a file format in the current workspace.
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="55" height="60"/>
 Compiling source code and get the desired result of 5 different programming
 languages i.e., C, C++, Python, PHP and Node Js.
-
 
 
 ## Tech
