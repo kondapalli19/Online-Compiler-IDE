@@ -91,7 +91,11 @@ Online Compiler IDE is currently extended with the following plugins.
 ### Error Showing
 ![2023-02-20 (7)](https://user-images.githubusercontent.com/101511737/220141403-3b633dad-0ada-478f-9b27-16c940c85555.png)
 
-## Contribution
+## Support
+If you have any feature requests or bug reports, please do pull request.
+
+Please feel free to contact me through kkoyal19599@gmail.com for further queries.
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [on_Com_IDE]: <https://github.com/kondapalli19/Online-Compiler-IDE>
