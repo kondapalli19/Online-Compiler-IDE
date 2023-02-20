@@ -63,6 +63,7 @@ http://localhost/interpreter/ui/index.html
 ```
 ## Structure of directory
 
+![2023-02-19 (2)](https://user-images.githubusercontent.com/101511737/220002342-e505d1bf-c053-4fb4-98b8-8255e8aefc29.png)
 
 ## Plugins
 
