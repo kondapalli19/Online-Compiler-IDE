@@ -2,7 +2,7 @@
 ## _Multi language compiler_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+<br/>✨ 5 Programming Languages in one IDE ✨<br/><br/>
 Online Compiler IDE is a web-based tool designed by using
 programming languages in frontend viz. HTML,CSS and JavaScript and for backend
 manipulation PHP and JavaScript for dynamic manipulation of web with the help of
@@ -24,7 +24,7 @@ ace editor.
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="55" height="60"/>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="55" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <br/>
 Compiling source code and get the desired result of 5 different programming
 languages i.e., C, C++, Python, PHP and Node Js.
@@ -77,10 +77,21 @@ Online Compiler IDE is currently extended with the following plugins.
 | JavaScript | [plugins/js/ide.js][on_Com_IDE_js] |
 | PHP | [plugins/app/compiler.php][on_Com_IDE_php] |
 
+## Snippets
+### C Output
+![2023-02-20 (6)](https://user-images.githubusercontent.com/101511737/220140193-c228b078-f17c-408a-a36b-dfb7f9074e42.png)
+### C++ Output
+![2023-02-20 (3)](https://user-images.githubusercontent.com/101511737/220140515-db9ae954-1693-45d4-93dd-1d812b4b436f.png)
+### Node JS Output
+![2023-02-20 (5)](https://user-images.githubusercontent.com/101511737/220140733-f2f7affb-7e15-4639-b608-2c281509a194.png)
+### Python Output
+![2023-02-20 (4)](https://user-images.githubusercontent.com/101511737/220141119-f81dd6b5-6020-4aa2-9548-14b1234b6e0e.png)
+### PHP Output
+![2022-09-30 (15)](https://user-images.githubusercontent.com/101511737/220141217-d995c375-20e4-4d2a-8f12-6eeef7e4d2ea.png)
+### Error Showing
+![2023-02-20 (7)](https://user-images.githubusercontent.com/101511737/220141403-3b633dad-0ada-478f-9b27-16c940c85555.png)
 
-
-
-
+## Contribution
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [on_Com_IDE]: <https://github.com/kondapalli19/Online-Compiler-IDE>
